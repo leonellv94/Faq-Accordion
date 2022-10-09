@@ -47,6 +47,9 @@
         margin-top: -190px;
         position: relative;
 }
+    .faq_question:hover {
+    color: orange;
+}
 }
 
 
@@ -141,10 +144,6 @@ h1 {
     padding-bottom: 0px;
     margin: 5px;
     align-self: center;
-}
-
-.faq_question:hover {
-    color: orange;
 }
 
 .faq_question img {
